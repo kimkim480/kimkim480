@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimkim480" alt="kimkim480" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimkim480&show_icons=true&theme=dark&locale=en&layout=compact" alt="kimkim480" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimkim480&show_icons=true&theme=dark&locale=en&layout=compact" alt="kimkim480" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimkim480&show_icons=true&theme=dark&locale=en" alt="kimkim480" /></p>
 
