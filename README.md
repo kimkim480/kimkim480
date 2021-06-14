@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Câmara</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Javascript Developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Cacatua Web**
 
@@ -11,13 +11,14 @@
 
 - ⚡ Fun fact **I like to make people laugh but I'm really bad at it**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimkim480" alt="kimkim480" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimkim480" alt="kimkim480" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimkim480&show_icons=true&theme=dark&locale=en&layout=compact" alt="kimkim480" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimkim480&show_icons=true&theme=dark&locale=en" alt="kimkim480" width="350" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimkim480&show_icons=true&theme=dark&locale=en" alt="kimkim480" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimkim480&show_icons=true&theme=dark&locale=en&layout=compact" alt="kimkim480" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimkim480&theme=dark" alt="kimkim480" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimkim480&theme=dark" alt="kimkim480" /></p> -->
 
 [![Spotify](https://spotify-playing-kpiq9hkbx.vercel.app/api/spotify)](https://open.spotify.com/user/22nzk2v6g7s7zb2vkyywgri3i)
 
