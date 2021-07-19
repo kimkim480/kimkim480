@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cacatua Web**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS** and **Java with Spring Framework**
 
 - 💬 Ask me about **anything**
 
