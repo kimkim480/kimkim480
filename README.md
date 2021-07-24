@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Câmara</h1>
-<h3 align="center">A passionate Javascript Developer from Brazil</h3>
+<h3 align="center">A passionate Developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Cacatua Web**
 
