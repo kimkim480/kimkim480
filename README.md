@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eric Câmara</h1>
 <h3 align="center">A passionate Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Cacatua Web**
+- 🔭 I’m currently working on **Player 2**
 
-- 🌱 I’m currently learning **NodeJS** and **Java with Spring Framework**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **anything**
 
