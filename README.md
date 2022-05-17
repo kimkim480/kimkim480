@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eric Câmara</h1>
 <h3 align="center">A passionate Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Player 2**
+- 🔭 I’m currently working on **INTERA**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Serveless**
 
 - 💬 Ask me about **anything**
 
