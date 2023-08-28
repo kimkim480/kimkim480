@@ -5,10 +5,10 @@
 
  - 🌱 I’m always learning **something**
 
- - 📫 How to reach me **devericalves@gmail.com** 
+ - 📫 Feel free to reach me: **devericalves@gmail.com** 
  
  
- [![Spotify](https://spotify-playing-kpiq9hkbx.vercel.app/api/spotify)](https://open.spotify.com/user/22nzk2v6g7s7zb2vkyywgri3i)
+<!-- [![Spotify](https://spotify-playing-kpiq9hkbx.vercel.app/api/spotify)](https://open.spotify.com/user/22nzk2v6g7s7zb2vkyywgri3i) -->
 
  <h4 align="left">Currently working with these tools: </h4>
 
@@ -18,6 +18,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Serverless" src="https://img.shields.io/badge/serverless-%23fd5750.svg?style=for-the-badge&logo=serverless&logoColor=white" />
+   <img alt="dynamodb" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
 </p>
 
  <p align="left">
